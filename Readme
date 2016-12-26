@@ -1,0 +1,7 @@
+Paste the .xprofile on your Home directory if it is not there
+Edit the .xprofile file to take it to the secure.py file
+
+
+This is a dual login feature for ubuntu
+One with mouse other with pattern
+the pattern changes everyday (which of course happens in a definite fasion)
